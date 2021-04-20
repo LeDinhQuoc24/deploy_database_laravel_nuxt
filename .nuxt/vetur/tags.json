@@ -1,0 +1,20 @@
+{
+  "LoginComponent": {
+    "description": "Auto imported from components/LoginComponent.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Notification": {
+    "description": "Auto imported from components/Notification.vue"
+  },
+  "RegisterComponent": {
+    "description": "Auto imported from components/RegisterComponent.vue"
+  },
+  "Test": {
+    "description": "Auto imported from components/test.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}
